@@ -1,0 +1,1 @@
+# Artikate Backend Assessment
